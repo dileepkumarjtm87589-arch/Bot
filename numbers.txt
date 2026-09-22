@@ -1,0 +1,11 @@
+# Indian Seed Numbers - Bot will auto-generate sequential from these
+# Format: 10 digit Indian mobile number
+# Bot will try: 8000000000, 8000000001, 8000000002... automatically
+
+8000000000
+7000000000
+9000000000
+6000000000
+8500000000
+7500000000
+9500000000
